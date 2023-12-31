@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kareem-r/Creem_React/static/css/main.0046594d.css",
-    "main.js": "/kareem-r/Creem_React/static/js/main.2f629080.js",
-    "static/media/remixicon.svg?t=1702724036775": "/kareem-r/Creem_React/static/media/remixicon.a377e4c771db384f4bc5.svg",
-    "static/media/remixicon.eot?t=1702724036775": "/kareem-r/Creem_React/static/media/remixicon.dd310df16a603c6a396d.eot",
-    "static/media/remixicon.ttf?t=1702724036775": "/kareem-r/Creem_React/static/media/remixicon.424fce778c275364c18f.ttf",
-    "static/media/photo_2022-10-21_19-08-06.jpg": "/kareem-r/Creem_React/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
-    "static/media/remixicon.woff?t=1702724036775": "/kareem-r/Creem_React/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
-    "static/media/remixicon.woff2?t=1702724036775": "/kareem-r/Creem_React/static/media/remixicon.d690f58194cb889b5487.woff2",
-    "static/media/ic_launcher.png": "/kareem-r/Creem_React/static/media/ic_launcher.bd625e0164e1914d47a7.png",
-    "index.html": "/kareem-r/Creem_React/index.html",
-    "main.0046594d.css.map": "/kareem-r/Creem_React/static/css/main.0046594d.css.map",
-    "main.2f629080.js.map": "/kareem-r/Creem_React/static/js/main.2f629080.js.map"
+    "main.css": "/Creen_React/static/css/main.b36fa049.css",
+    "main.js": "/Creen_React/static/js/main.3ec6d65d.js",
+    "static/media/remixicon.svg?t=1702724036775": "/Creen_React/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/Creen_React/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/Creen_React/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/photo_2022-10-21_19-08-06.jpg": "/Creen_React/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/Creen_React/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/Creen_React/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/ic_launcher.png": "/Creen_React/static/media/ic_launcher.bd625e0164e1914d47a7.png",
+    "index.html": "/Creen_React/index.html",
+    "main.b36fa049.css.map": "/Creen_React/static/css/main.b36fa049.css.map",
+    "main.3ec6d65d.js.map": "/Creen_React/static/js/main.3ec6d65d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0046594d.css",
-    "static/js/main.2f629080.js"
+    "static/css/main.b36fa049.css",
+    "static/js/main.3ec6d65d.js"
   ]
 }
