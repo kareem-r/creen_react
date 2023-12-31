@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Creen_React/static/css/main.b36fa049.css",
-    "main.js": "/Creen_React/static/js/main.3ec6d65d.js",
-    "static/media/remixicon.svg?t=1702724036775": "/Creen_React/static/media/remixicon.a377e4c771db384f4bc5.svg",
-    "static/media/remixicon.eot?t=1702724036775": "/Creen_React/static/media/remixicon.dd310df16a603c6a396d.eot",
-    "static/media/remixicon.ttf?t=1702724036775": "/Creen_React/static/media/remixicon.424fce778c275364c18f.ttf",
-    "static/media/photo_2022-10-21_19-08-06.jpg": "/Creen_React/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
-    "static/media/remixicon.woff?t=1702724036775": "/Creen_React/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
-    "static/media/remixicon.woff2?t=1702724036775": "/Creen_React/static/media/remixicon.d690f58194cb889b5487.woff2",
-    "static/media/ic_launcher.png": "/Creen_React/static/media/ic_launcher.bd625e0164e1914d47a7.png",
-    "index.html": "/Creen_React/index.html",
-    "main.b36fa049.css.map": "/Creen_React/static/css/main.b36fa049.css.map",
-    "main.3ec6d65d.js.map": "/Creen_React/static/js/main.3ec6d65d.js.map"
+    "main.css": "/creen_react/static/css/main.3f08db40.css",
+    "main.js": "/creen_react/static/js/main.5cb8e0e8.js",
+    "static/media/remixicon.svg?t=1702724036775": "/creen_react/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/creen_react/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/creen_react/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/photo_2022-10-21_19-08-06.jpg": "/creen_react/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/creen_react/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/creen_react/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/ic_launcher.png": "/creen_react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
+    "index.html": "/creen_react/index.html",
+    "main.3f08db40.css.map": "/creen_react/static/css/main.3f08db40.css.map",
+    "main.5cb8e0e8.js.map": "/creen_react/static/js/main.5cb8e0e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b36fa049.css",
-    "static/js/main.3ec6d65d.js"
+    "static/css/main.3f08db40.css",
+    "static/js/main.5cb8e0e8.js"
   ]
 }
